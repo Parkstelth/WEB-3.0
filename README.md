@@ -1,4 +1,4 @@
-# Project02_Web2.0_Blockchain_Community
+Web3.0_Blockchain_Community
 
 회원가입, 유저관리 등을 이용하여 웹을 사용하여 NFT를 구매, 토큰 보상, 토큰전송 등의 다양한 기능을 사용할 수 있습니다.
 
